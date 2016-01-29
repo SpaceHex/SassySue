@@ -1,0 +1,9 @@
+name: SassySue
+main: net.spacegeek224.SassySue.Main
+version: 1.8.1
+author: spacegeek224
+commands:
+  hello:
+    description: hello
+    usage: /hello
+    permission: sassysue.hello
