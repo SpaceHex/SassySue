@@ -25,7 +25,7 @@
 							<target>
 								<copy
 									file="${project.build.directory}/${project.build.finalName}.jar"
-									todir="/Users/marisusis/Desktop/spigottest/plugins" />
+									todir="./" />
 							</target>
 						</configuration>
 						<goals>
